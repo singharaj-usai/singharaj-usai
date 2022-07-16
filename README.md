@@ -10,6 +10,6 @@
 
 ### - 🗨️ I have 5+ years of experience in Graphic Design specializing in Roblox game art utilizing Photoshop and Blender to create thumbnails for content creators. I'm going to use what I learned and put it into building web applications that will be visually pleasing, attractive, and user-friendly to any audience who may stumble upon my web app projects! 
 
-### - 👀 Check out my Deviantart to see my thumbnail designs: https://www.deviantart.com/realmrbobbilly
+### - 👀 Check out my Deviantart to see my graphic design portfolio: https://www.deviantart.com/realmrbobbilly
 
 ### - More coming soon!
