@@ -6,7 +6,7 @@
 
 ## :sassy_man:  About me
 
-### - 📖 I’m a student at MSU's Web Development Bootcamp. I'm hoping to be able to build a gaming platform based on Roblox soon after I graduate with the things I learn from the Bootcamp!
+### - 📖 I’m a student at MSU's Web Development Bootcamp. I'm hoping to be able to build a gaming platform soon after I graduate with the things I learn from the Bootcamp!
 
 ### - 🗨️ I have 5+ years of experience in Graphic Design specializing in Roblox game art utilizing Photoshop and Blender to create thumbnails for content creators. I'm going to use what I learned and put it into building web applications that will be visually pleasing, attractive, and user-friendly to any audience who may stumble upon my web app projects! 
 
