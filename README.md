@@ -4,7 +4,7 @@
 </p>
 <br>
 
-<img src="./its_me.png" align="right"  width="300"/>
+<img src="./its_me.png" align="right"  width="400"/>
 
 💁‍♂️ **Welcome!**
 
