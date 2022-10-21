@@ -4,9 +4,7 @@
 </p>
 <br>
 
-## **Welcome!**
-
-## 💁‍♂️  About me
+💁‍♂️ **Welcome!**
 
 I'm a former YouTube & Roblox creator-turned web developer. I will be using what I have learned to create an amazing experience for my audience, and as a long-term career as well.
 
