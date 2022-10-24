@@ -30,5 +30,6 @@ Tech Stacks:
 
 📮 How to contact me: 
 * Discord: `mrbobbilly#0527`
+* My Discord server: https://www.discord.gg/jyjHvWB34T
 *  DeviantArt: [Realmrbobbilly](https://www.deviantart.com/realmrbobbilly)
 *  Twitter: [Omrbobbilly](http://twitter.com/omrbobbilly)
