@@ -8,7 +8,9 @@
 
 💁‍♂️ **Welcome!**
 
-😱 Full Sail University student 😱
+😱 Full Sail University student
+
+I'm a former YouTube & Roblox creator-turned web developer. I will be using what I have learned to create an amazing experience for my audience, and as a long-term career as well.
 
 Tech Stacks:
 
