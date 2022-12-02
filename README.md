@@ -29,7 +29,7 @@ Tech Stacks:
 ![Blender](https://img.shields.io/badge/Blender-1a2a33?logo=blender&logoColor=orange&style=for-the-badge)
 
 📮 How to contact me: 
-* My personal website: https://singharaj.com/
+* My personal website: https://www.singharaj.com/
 * My Roblox profile: https://www.roblox.com/users/446187905/profile
 * Discord: `mrbobbilly#0527`
 * My Discord server: https://www.discord.gg/jyjHvWB34T
