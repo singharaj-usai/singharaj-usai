@@ -8,11 +8,15 @@
 
 💁‍♂️ **Welcome!**
 
-⛔️ Most of my repos are privated because they're private
+* Hello World ! I am an aspiring Web & App developer looking to get into the tech industry after a few years of being a social media creator.
+* Qualifications include a wide range of skill-set such as JavaScript, PHP, Lua, Adobe Photoshop & Illustrator, Magix Vegas Pro, social media marketing & personal branding, and many more!
+
+⛔️ The current public repositories on my profile are work from my coding bootcamp to showcase my accomplishments during the time of the bootcamp. Over time I will replace them with original work that I do to improve my knowledge and skills.
 
 Tech Stacks:
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-white?logo=adobephotoshop&logoColor=blue&style=for-the-badge)
+![Illustrator](https://img.shields.io/badge/Illustrator-black?logo=adobeillustrator&logoColor=orange&style=for-the-badge)
 ![Premiere](https://img.shields.io/badge/Premiere-1f3641?logo=adobepremierepro&logoColor=c76490&style=for-the-badge)
 ![JS](https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=yellow&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-white?logo=jquery&logoColor=0078d4&style=for-the-badge)
@@ -20,7 +24,7 @@ Tech Stacks:
 ![PHP](https://img.shields.io/badge/PHP-6a73b6?logo=php&logoColor=white&style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node.JS-039d63?logo=node.js&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-grey?logo=firebase&logoColor=orange&style=for-the-badge)
-![React](https://img.shields.io/badge/ReactJs-blue?logo=react&logoColor=cyan&style=for-the-badge)
+![React](https://img.shields.io/badge/React.JS-blue?logo=react&logoColor=cyan&style=for-the-badge)
 ![PWAs](https://img.shields.io/badge/PWA-30b8f5?logo=pwa&logoColor=ffd966&style=for-the-badge)
 ![Webstorm](https://img.shields.io/badge/Webstorm-black?logo=webstorm&logoColor=white&style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-8d8cdf?logo=visualstudiocode&logoColor=4666ff&style=for-the-badge)
@@ -33,6 +37,5 @@ Tech Stacks:
 * My personal website: https://www.singharaj.com/
 * My Roblox profile: https://www.roblox.com/users/446187905/profile
 * Discord: `mrbobbilly#0527`
-* My Discord server: https://www.discord.gg/jyjHvWB34T
-*  DeviantArt: [Realmrbobbilly](https://www.deviantart.com/realmrbobbilly)
-*  Twitter: [Omrbobbilly](http://twitter.com/omrbobbilly)
+* DeviantArt: [Realmrbobbilly](https://www.deviantart.com/realmrbobbilly)
+* Twitter: [Omrbobbilly](http://twitter.com/omrbobbilly)
