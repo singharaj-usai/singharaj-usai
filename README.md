@@ -32,7 +32,7 @@
 ![Lua](https://img.shields.io/badge/Lua-0078d4?logo=lua&logoColor=white&style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-1a2a33?logo=blender&logoColor=orange&style=for-the-badge)
 
-📮 How to contact me: 
+📮 **How to contact me:**
 * My email: san1999@att.net
 * My personal website: https://www.singharaj.com/
 * My Roblox profile: https://www.roblox.com/users/446187905/profile
