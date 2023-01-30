@@ -13,7 +13,7 @@
 
 ⛔️ The current public repositories on my profile are work from my coding bootcamp to showcase my accomplishments during the time of the bootcamp. Over time I will replace them with original work that I do to improve my knowledge and skills.
 
-Tech Stacks:
+<h1>Tech Stacks:</h1>
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-white?logo=adobephotoshop&logoColor=blue&style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/Illustrator-black?logo=adobeillustrator&logoColor=orange&style=for-the-badge)
