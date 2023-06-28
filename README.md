@@ -50,6 +50,6 @@ I'm always open to exciting opportunities and collaborations. If you'd like to c
 * Email: san1999@att.net
 * Personal website: https://www.singharaj.com/
 * Roblox profile: https://www.roblox.com/users/446187905/profile
-* Discord: `mrbobbilly#0527`
+* Discord: `mrbobbilly`
 * DeviantArt: [Realmrbobbilly](https://www.deviantart.com/realmrbobbilly)
 * Twitter: [Omrbobbilly](http://twitter.com/omrbobbilly)
