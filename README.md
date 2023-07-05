@@ -8,16 +8,16 @@
 </p>
 
 ## Welcome! 👋
-Thank you for visiting my GitHub profile! I'm an aspiring Web & App developer with a strong passion for creating innovative and user-friendly online experiences. With a background as a social media creator, I bring a unique perspective to my development work, focusing on delivering engaging and impactful solutions.
+Thank you for visiting my GitHub profile! I'm an aspiring Web & App developer with a strong passion for creating innovative and user-friendly online experiences. With a background as a social media creator, I bring a unique perspective to my development work, focusing on delivering engaging and impactful experiences.
 
 ## Skills and Expertise 🚀
 I have developed a diverse skill set over the years, combining technical expertise with creative abilities. Some of my core competencies include:
 
 * Full-stack web and app development using JavaScript, PHP, and Lua
-* Proficiency in Adobe Photoshop & Illustrator for design and graphics
-* Experience with video editing using tools like Magix Vegas Pro and Adobe Premiere Pro
+* Professional proficiency in Adobe Photoshop & Illustrator for design and graphics
+* Experience with video editing using softwares like Magix Vegas Pro and Adobe Premiere Pro
 * Social media marketing and personal branding strategies
-* Continuous learning and exploration of new technologies
+* Continuous learning and exploration of new skills
 
 ## Current Projects and Repositories 🔭
 
