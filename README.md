@@ -8,7 +8,7 @@
 </p>
 
 ## Welcome! 👋
-Thank you for visiting my GitHub profile! I'm an aspiring Web & App developer with a strong passion for creating innovative and user-friendly online experiences. With a background as a social media creator, I bring a unique perspective to my development work, focusing on delivering engaging and impactful experiences.
+Thank you for visiting my GitHub profile! I'm an aspiring Web & App developer with a strong passion for creating innovative and user-friendly online experiences. In 2023, I made the decision to try to make a career transition from a social media creator to the tech industry. With a background as a social media creator, I bring a unique perspective to my development work, focusing on delivering engaging and impactful experiences.
 
 ## Skills and Expertise 🚀
 I have developed a diverse skill set over the years, combining technical expertise with creative abilities. Some of my core competencies include:
@@ -21,7 +21,7 @@ I have developed a diverse skill set over the years, combining technical experti
 
 ## Current Projects and Repositories 🔭
 
-Please note that the public repositories currently visible on my profile showcase my work during a coding bootcamp where I honed my skills and demonstrated my capabilities. As I continue to grow and advance in my career, I will gradually replace them with original projects that highlight my evolving knowledge and expertise.
+Please note the public repositories currently visible on my profile showcase my work when I did a coding bootcamp to try to get into the tech industry. As I continue to grow and advance in my career, I will gradually replace them with original projects that highlight my evolving knowledge and skills.
 
 ## Tech Stacks 💻
 
@@ -47,7 +47,7 @@ Please note that the public repositories currently visible on my profile showcas
 
 I'm always open to exciting opportunities and collaborations. If you'd like to connect, discuss potential projects, or explore how we can work together, feel free to reach out to me through the following channels:
 
-* Email: san1999@att.net
+* Email: usais@mail.gvsu.edu
 * Personal website: https://www.singharaj.com/
 * Roblox profile: https://www.roblox.com/users/446187905/profile
 * Discord: `mrbobbilly`
