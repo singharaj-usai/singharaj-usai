@@ -8,20 +8,20 @@
 </p>
 
 ## Welcome! 👋
-Thank you for visiting my GitHub profile! I'm an aspiring Web & App developer with a strong passion for creating innovative and user-friendly online experiences. In 2023, I made the decision to try to make a career transition from a social media creator to the tech industry. With a background as a social media creator, I bring a unique perspective to my development work, focusing on delivering engaging and impactful experiences.
+Thank you for visiting my GitHub profile! I'm an aspiring Web & App developer with a passion in creating innovative and user-friendly online experiences. In 2023, I made the decision to try to make a career transition from a social media creator to the tech industry. With a background in social media, I bring a unique perspective to my work delivering engaging and impactful experiences.
 
 ## Skills and Expertise 🚀
-I have developed a diverse skill set over the years, combining technical expertise with creative abilities. Some of my core competencies include:
+I have developed a diverse skill set over the years, bringing technical expertise with creative abilities. Some of my core competencies include:
 
 * Full-stack web and app development using JavaScript, PHP, and Lua
-* Professional proficiency in Adobe Photoshop & Illustrator for design and graphics
-* Experience with video editing using softwares like Magix Vegas Pro and Adobe Premiere Pro
+* Professional proficiency with thumbnails and banners using Adobe Photoshop & Illustrator
+* Experience with video production editing using softwares like Magix Vegas Pro and Adobe Premiere Pro
 * Social media marketing and personal branding strategies
 * Continuous learning and exploration of new skills
 
 ## Current Projects and Repositories 🔭
 
-Please note the public repositories currently visible on my profile showcase my work when I did a coding bootcamp to try to get into the tech industry. As I continue to grow and advance in my career, I will gradually replace them with original projects that highlight my evolving knowledge and skills.
+Please note the public repositories currently visible on my profile showcase my work when I did a coding bootcamp. As I continue to grow and advance, I will gradually replace them with original projects that highlight my evolving knowledge and skills.
 
 ## Tech Stacks 💻
 
@@ -45,7 +45,7 @@ Please note the public repositories currently visible on my profile showcase my 
 
 ## Contact Me 📫
 
-I'm always open to exciting opportunities and collaborations. If you'd like to connect, discuss potential projects, or explore how we can work together, feel free to reach out to me through the following channels:
+If you'd like to connect, discuss potential projects, or explore how we can work together, feel free to reach out to me through the following channels:
 
 * Email: usais@mail.gvsu.edu
 * Personal website: https://www.singharaj.com/
