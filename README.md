@@ -1,4 +1,4 @@
-## Hi there 👋
+## Im sorry everyone who relied on my projects, I privated all of my repos. My life got fucked up
 
 <!--
 **singharaj-usai/singharaj-usai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
